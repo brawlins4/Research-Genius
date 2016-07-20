@@ -13,3 +13,6 @@ http://libguides.georgetowncollege.edu/RG/RAI
 <strong>Ethical Research</strong><br>
 http://libguides.georgetowncollege.edu/RG/EthicalResearch (landing page for Ethical Research)<br>
 http://libguides.georgetowncollege.edu/RG/ER 
+
+<strong>Meet the Research Geniuses</strong><br>
+http://libguides.georgetowncollege.edu/RG/MTRG
