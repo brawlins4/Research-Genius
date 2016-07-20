@@ -1,0 +1,374 @@
+body {
+padding-left: 0px;
+padding-right: 0px;
+width: 100%
+}
+body {
+background-image: url('https://s3.amazonaws.com/libapps/accounts/4983/images/extra_clean_paper.png');
+background-repeat: repeat;
+background-position: top left;
+background-attachment: scroll;
+}
+#acctlinks {
+display: none;
+}
+a:hover{
+text-decoration: none;
+}
+.row {
+margin-left: 0px;
+margin-right: auto;
+}
+#LRCheader {
+background-color: #f47920;
+width: 100%;
+background-size: cover;
+min-height: 120px;
+margin-bottom: 20px;
+}
+#logoHeader {
+padding: 33px 0px 0px 0px;
+min-height: 120px;
+}
+img.logo {
+padding-left: 10px;
+width: 95%;
+max-width: 400px;
+}
+.rgContainer, .rgContainerGuide {
+margin: 0 auto;
+padding: 35px;
+background-color: #fff;
+border-radius: 5px;
+}
+.rgContainer {
+/*max-width: 980px;*/
+}
+.rgContainerGuide {
+margin-bottom: 20px;
+}
+.researchGC {
+    color: #f47920;
+    text-shadow:2px 1px 3px #333;   
+}
+.GCLogo {
+    max-width: 300px;
+}
+.btn-black {
+    background-color: #000;
+    background-repeat: repeat-x;
+    color: #fff;
+    border-color: #000;
+}
+.img-thumbnail, .thumbnail {
+    margin-bottom: 15px;
+}
+.panel-heading {
+    color: #fff;
+}
+.panel-title {
+    font-weight:bold;
+}
+/*----Style for Module Start Links--*/
+.moduleStart {
+    background-color: #5cb85c;
+}
+.modStart {
+    float: right;
+}
+.modIntro {
+font-size: 14px;
+}
+/*--------------------HOMPAGE Styles--------------*/
+.panel-rg {
+border: 1px solid #ddd;
+padding: 2px;
+}
+.modules {
+    background-color: #5d478b;
+    border: 1px solid #ddd;
+}
+.mtrg {
+    background-color: #e05b0e;
+}
+.homepageicon {
+    height: 50px;
+    padding-right:5px;
+}
+/*---------------End Homepage Styles---------*/
+
+#s-lg-guide-header-info h1 {
+display: none;
+}
+.subPageNav {
+list-style: none;
+font-size: 14px;
+font-weight: bold;
+}
+ .subPageNav li {
+padding-top: 6px;
+}
+.menuButton {
+color: #000;
+background-color: #fff;
+border: 1px solid #ccc;
+}
+
+.subPageNav a {
+text-decoration: none;
+color: #fff;
+}
+.list-group .active {
+/*list-style-image: url('https://s3.amazonaws.com/libapps/accounts/4983/images/Arrowhead-Right.png');*/
+list-style-position: inside;
+color: #f47920;
+}
+.panel-default > .subPagePanelHeading {
+background-color: #f47920;
+color: #fff;
+}
+.panel-default {
+border: none;
+background-color: #000;
+}
+#s-lg-guide-name {
+font-weight: bold;
+color: #f47920;
+text-shadow: 1px 1px  #b3b3b3;
+}
+
+/*Subpage subnav*/
+#s-lg-tabs-container {
+margin-top: 50px;
+}
+#s-lg-tabs-container .nav-pills > li > a, #s-lg-tabs-container .nav-pills > li > a:hover {
+    background-color: #000; 
+    font-weight: bold;
+}
+#s-lg-tabs-container .nav-pills > li > a {
+   color: #fff; 
+   font-size: 12px;
+}
+#s-lg-tabs-container .nav-pills > li > a:hover {
+   color: #555; 
+}
+ #s-lg-tabs-container .nav-pills > .active > a,  #s-lg-tabs-container .nav-pills > .active > a:hover {
+    color: #337ab7; 
+    color: #f47920;
+    /*text-shadow: 1px 1px  #b3b3b3;*/
+    background-repeat: no-repeat;
+    background-position: center left;
+    border-radius: none;
+    border-bottom: none;
+    /*border-bottom-color: transparent;*/
+    font-weight: bold;
+}
+
+.h4Heading {
+font-weight: bold;
+color: #f47920;
+text-shadow: 1px 1px  1px #b3b3b3;
+}
+/* Previous and Next Buttons */
+.pager li a {
+margin-top: 15px;
+width: 32px;
+height: 32px;
+overflow: hidden; 
+color:transparent;
+background-color: #fff;
+border-color: #fff;
+}
+.pager .next>a, .pager .next>span {
+background-image: url('https://s3.amazonaws.com/libapps/accounts/4983/images/next.png');
+}
+.pager .previous>a, .pager .previous>span {
+background-image: url('https://s3.amazonaws.com/libapps/accounts/4983/images/previous.png');
+}
+/*End Previous and Next Buttons */
+
+/*---------------------------------------------------------------------------------------Sidebar CSS-----------------------------------------------------------------------------*/
+#wrapper {
+    padding-left: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#wrapper.toggled {
+    padding-left: 250px;
+}
+
+#sidebar-wrapper {
+    z-index: 1000;
+    position: fixed;
+    left: 250px;
+    width: 0;
+    height: 100%;
+    margin-left: -250px;
+    overflow-y: auto;
+    background: #000;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+
+#wrapper.toggled #sidebar-wrapper {
+    width: 250px;
+}
+
+#page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    /*padding: 15px;*/
+}
+
+#wrapper.toggled #page-content-wrapper {
+    position: absolute;
+    margin-right: -250px;
+}
+
+/* Sidebar Styles */
+
+.sidebar-nav {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.sidebar-nav li {
+    text-indent: 20px;
+    line-height: 40px;
+}
+
+.sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+}
+
+.sidebar-nav li a:hover {
+    text-decoration: none;
+    color: #f47920;
+    background: rgba(255,255,255,0.2);
+}
+
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+    text-decoration: none;
+}
+
+.sidebar-nav > .sidebar-brand {
+    height: 65px;
+    font-size: 18px;
+    line-height: 60px;
+}
+
+.sidebar-nav > .sidebar-brand a {
+    color: #fff;
+}
+
+.sidebar-nav > .sidebar-brand a:hover {
+    color: #f47920;
+    background: none;
+}
+.sidebarList {
+	font-size:12px;
+}
+.selected {
+	color: #fff;
+	background: #f47920;
+}
+@media screen and (min-width: 768px) {
+  	#wrapper {
+        padding-left: 250px;
+    }
+
+    #wrapper.toggled {
+        padding-left: 0;
+    }
+
+    #sidebar-wrapper {
+        width: 250px;
+    }
+
+    #wrapper.toggled #sidebar-wrapper {
+        width: 0;
+    }
+
+    #page-content-wrapper {
+        /*padding: 20px;*/
+        position: relative;
+    }
+
+    #wrapper.toggled #page-content-wrapper {
+        position: relative;
+        margin-right: 0;
+    }
+}
+@media screen and (max-width: 767px) {
+	#wrapper {
+        padding-left: 250px;
+    }
+
+    #wrapper.toggled {
+        padding-left: 0;
+    }
+
+    #sidebar-wrapper {
+        width: 250px;
+    }
+
+    #wrapper.toggled #sidebar-wrapper {
+        width: 0;
+    }
+
+    #page-content-wrapper {
+        /*padding: 20px;*/
+        position: fixed;
+    }    
+}
+/*-----------------------------------------------------------------------------------------End Sidebar CSS--------------------------------------------------------------------*/
+
+/*---------------------------------------------------Sortable items for citations-------------------------------------------------------*/
+.ui-sortable {
+    list-style-type: none; 
+}
+.ui-sortable li.ui-state-default {
+	display: block;
+	margin: 3px;
+	margin-bottom: 10px;
+	/*float: left;*/
+	font-size: 1.4em; 
+	color: black;
+	padding: 10px;
+	border: 1px solid black;
+    font-size: 1.1em;
+	border-radius: 7px;
+	cursor: pointer;
+}
+
+
+.ui-sortable li.ui-state-default:hover{
+	opacity: 0.4;
+} 
+.ui-state-default {background: none;}
+.colorOne {background-color: #ED5565;}
+.colorTwo {background-color: #FC6E51;}
+.colorThree {background-color: #FFCE54;}
+.colorFour {background-color: #A0D468;}
+.colorFive {background-color: #48CFAD;}
+.colorSix {background-color: #4FC1E9;}
+.colorSeven {background-color: #5D9CEC;}
+.colorEight {background-color: #AC92EC;}
+
+.citeInfo {
+font-weight: bold;
+ text-decoration: underline;
+}
