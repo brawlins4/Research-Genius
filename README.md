@@ -20,3 +20,5 @@ http://libguides.georgetowncollege.edu/RG/ER
 
 <strong>Meet the Research Geniuses</strong><br>
 http://libguides.georgetowncollege.edu/RG/MTRG
+
+![research genius](https://cloud.githubusercontent.com/assets/1258900/16989381/02526990-4e62-11e6-8967-78c884e89b77.jpg)
