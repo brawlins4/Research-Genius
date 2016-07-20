@@ -5,11 +5,11 @@ Research Genius is a tool designed using LibGuides CMS aimed at giving students 
 <strong>Intro to Academic Research</strong><br>
 http://libguides.georgetowncollege.edu/RG/AcademicResearch (landing page for Intro to Academic Research)<br>
 http://libguides.georgetowncollege.edu/RG/IAR 
-<p>&nbsp;</p>
+
 <strong>Research as Inquiry</strong><br>
 http://libguides.georgetowncollege.edu/RG/ResearchInquiry (landing page for Research as Inquiry)<br>
 http://libguides.georgetowncollege.edu/RG/RAI 
-<p>&nbsp;</p>
+
 <strong>Ethical Research</strong><br>
 http://libguides.georgetowncollege.edu/RG/EthicalResearch (landing page for Ethical Research)<br>
 http://libguides.georgetowncollege.edu/RG/ER 
