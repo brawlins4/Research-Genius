@@ -1,6 +1,8 @@
 # Research-Genius
 Research Genius is a tool designed by the library at Georgetown College using LibGuides CMS aimed at giving students an understanding of what it means to do college level research and can be customized to fit your institution's needs.  It consists of three modules (Intro to Academic Research, Research as Inquiry, and Ethical Research).  The following are links to the individual LibGuides for each module.  The other files are templates files that we customized along with the CSS and JS files.  
 
+The individual guides are listed as private but shareable to the Springshare Community.  You should be able to add the guides to your LibGuides with the links below.
+
 <strong>NOTE</strong>:  The research-genius.js and research-genius.css files will need to be added to the Custom JS/CSS in Groups section or LibGuides Admin Look & Feel section.  The jquery.ui.touch-punch.min.js, sweetalert.min.js, and sweetalert.css will need to be uploaded to a server with the file path link in the bottom of the guidTemplate.html page.
 
 If you have any questions I can be reached at Ben_Rawlins@georgetowncollege.edu.
