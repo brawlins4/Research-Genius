@@ -7,7 +7,7 @@ The individual guides are listed as private but shareable to the Springshare Com
 
 <p>If you have any questions I can be reached at <a href="mailto:brawlins4@gmail.com">brawlins4@gmail.com</a>.</p>
 
-####<strong>Individual LibGuide Links</strong>
+###<strong>Individual LibGuide Links</strong>
 <strong>Intro to Academic Research</strong><br>
 http://libguides.georgetowncollege.edu/RG/AcademicResearch (landing page for Intro to Academic Research)<br>
 http://libguides.georgetowncollege.edu/RG/IAR 
