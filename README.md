@@ -5,7 +5,7 @@ The individual guides are listed as private but shareable to the Springshare Com
 
 <strong>NOTE</strong>:  The research-genius.js and research-genius.css files will need to be added to the Custom JS/CSS in Groups section or LibGuides Admin Look & Feel section.  The jquery.ui.touch-punch.min.js, sweetalert.min.js, and sweetalert.css will need to be uploaded to a server with the file path link in the bottom of the guidTemplate.html page.
 
-If you have any questions I can be reached at Ben_Rawlins@georgetowncollege.edu.
+<p>If you have any questions I can be reached at <a href="mailto:brawlins4@gmail.com">brawlins4@gmail.com</a>.</p>
 
 <h4><strong>Individual LibGuide Links</strong></h4>
 <strong>Intro to Academic Research</strong><br>
